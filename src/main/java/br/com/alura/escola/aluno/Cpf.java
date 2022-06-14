@@ -1,4 +1,4 @@
-package escola;
+package br.com.alura.escola.aluno;
 
 public class Cpf {
 
@@ -11,5 +11,8 @@ public class Cpf {
 		}
 		this.numero = numero;
 	}
-	
+
+	public String getNumero() {
+		return numero;
+	}
 }
