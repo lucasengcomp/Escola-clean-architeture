@@ -48,9 +48,4 @@ public class Aluno {
 	public List<Telefone> getTelefones() {
 		return telefones;
 	}
-	
-	public static void main(String[] args) {
-		Aluno a = new Aluno(new Cpf(""), "Lucas Galvao", new Email("email@gmail.com"));
-	}
-	
 }

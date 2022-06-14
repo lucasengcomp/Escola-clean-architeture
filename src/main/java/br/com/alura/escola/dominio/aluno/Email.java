@@ -11,6 +11,4 @@ public class Email {
 		}
 		this.endereco = endereco;
 	}
-	
-	
 }
